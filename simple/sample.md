@@ -1,4 +1,3 @@
-
 Hello hai this is to test the sample folder in git
 this is modified in the sub branch 1.1 
 * To experiment the git working functionality
